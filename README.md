@@ -1,7 +1,7 @@
 # Marketing Campaign Analysis
 Marketing Campaign Analysis Project 
 ## Project Description
-Cleaned and preprocessed HR datasets to ensure data quality and consistency, utilizing DAX (Data Analysis Expressions) to create calculated columns and measures for advanced analysis of employee performance, attrition rates, and workforce trends. Designed dynamic dashboards in Power BI to visualize key insights, including average employee tenure by department and year-over-year trends in retention. Conducted in-depth analysis to identify key factors influencing employee satisfaction, turnover, and productivity, providing valuable insights for HR decision-making.
+Cleaned and preprocessed marketing campaign datasets to ensure accuracy and consistency. Utilized DAX (Data Analysis Expressions) to create calculated measures and KPIs for evaluating campaign performance across regions and platforms. Designed dynamic dashboards in Power BI to visualize key insights, including total spend vs. total revenue by region, ROI by campaign type, and distribution of traditional vs. digital campaigns. Performed in-depth analysis to identify the most effective campaigns, top-performing regions, and high-ROI marketing strategies, delivering valuable insights to support data-driven marketing decisions.
 ## Tools
 ![download](https://github.com/user-attachments/assets/82fe2e1c-ca76-4267-9819-1449de1c9e64)![download (1)](https://github.com/user-attachments/assets/9295a98b-4db9-4334-841c-01003dbe84d5)
 ## Datasets
