@@ -12,12 +12,12 @@ Cleaned and preprocessed marketing campaign datasets to ensure accuracy and cons
 ## Power Bi Dashboards
 ![Image](https://github.com/user-attachments/assets/56815541-fbf3-4ab1-a2bb-e20d90a873a9)
 ## Key Features:
-	•	Overall Metrics:
+	Overall Metrics:
 	•	Average ROI: 0.68
 	•	Total Revenue: 42.54M
 	•	Total Spend: 25.69M
 	•	Best Campaign: Influencer Marketing
-	•	Visualizations:
+	Visualizations:
 	•	Bar Chart: Total Spend vs. Total Revenue by Region (Africa, Asia, North America, Europe, Oceania, South America)
 	•	Bar Chart: ROI and Spend by Campaign Name (e.g., Influencer Marketing, Social Media Ads, Email Marketing, etc.)
 	•	Pie Chart: Distribution of Campaign Types (Traditional 37.5%, Digital 62.5%)
